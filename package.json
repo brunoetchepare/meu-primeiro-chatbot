@@ -10,7 +10,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "initai-dev-server": "^0.4.3",
+    "initai-dev-server": "^0.4.9",
     "initai-node": "~0.0.6"
   }
 }
